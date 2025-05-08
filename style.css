@@ -1,0 +1,48 @@
+
+        footer {
+            padding: 20px;
+          background-color: #000;
+          color: #fff;
+        }
+        .footer-input {
+          background-color: #111;
+          border: 1px solid #333;
+          color: #fff;
+        }
+        .footer-input::placeholder {
+          color: #aaa;
+        }
+        .subscribe-btn {
+          background-color: #e65a20;
+          color: #fff;
+          border: none;
+        }
+        .subscribe-btn:hover {
+          background-color: #5bf71e;
+        }
+        .footer-links a {
+          color: #aaa;
+          text-decoration: none;
+          display: block;
+          margin-bottom: 5px;
+        }
+        .footer-links a:hover {
+          color: #fff;
+        }
+        .social-list a {
+          color: #fff;
+          text-decoration: none;
+          padding: 10px 0;
+          display: flex;
+          align-items: center;
+        }
+        .social-list i {
+          font-size: 1.2rem;
+          margin-right: 10px;
+        }
+        .footer-bottom {
+          border-top: 1px solid #222;
+          padding-top: 20px;
+          font-size: 0.9rem;
+          color: #666;
+        }
