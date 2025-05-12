@@ -1,4 +1,35 @@
 
+
+    *{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+      p,small{
+    opacity: 75%;
+    font-size: small;
+}
+       .editor{
+        margin-top: -3rem;
+        color:#fff
+       }
+
+       .advertise{
+        margin-top: -6rem;
+        color:#fff;
+        padding:0 10px;
+        
+       }
+       .latest{
+        background-color: rgb(247, 152, 111);
+       }
+       .podcast{
+    margin-top: -7rem;
+    padding: 10px;
+    color: white;
+}
+       .footer > a {
+    text-decoration: none;
+    color: white;
+}
         footer {
             padding: 20px;
           background-color: #000;
